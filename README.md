@@ -7,6 +7,8 @@ A simple and modern currency converter web application built to practice and lea
 - Convert between a wide range of currencies.
 - Real-time exchange rate updates.
 - User-friendly interface with modern design.
+  ![image](https://github.com/user-attachments/assets/92b2cb03-98bd-454a-9cd5-032347ac83ab)
+
 
 ## Technologies
 
